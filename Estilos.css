@@ -1,0 +1,15 @@
+.taquilla {
+    width: 600px;
+    margin: auto;
+    background-color: rgb(209, 223, 218);
+    color: rgb(85, 62, 62);
+    
+}
+
+.cabecera {
+    color: rgb(54, 53, 54);
+}
+
+body {
+    text-align: center ;
+}
